@@ -1,2 +1,5 @@
 # hello-world
-Just for fun
+
+Hi Humans!
+There there there!
+This is just a toy example!
